@@ -1,0 +1,12 @@
+x1=float(input("Enter number to get your garde: "))
+if(x1>100 or x1<0):print("Error Input!")
+elif(x1>=90): print("A+")
+elif(x1>=85):print("A")
+elif(x1>=80):print("B+")
+elif(x1>=75):print("B")
+elif(x1>=70):print("C+")
+elif(x1>=65):print("C")
+elif(x1>=60):print("D+")
+elif(x1>=55):print("D")
+else:print("F")
+
