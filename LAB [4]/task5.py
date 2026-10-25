@@ -1,3 +1,4 @@
+# Print Fibonacci numbers below a given user input N.
 x=int(input("Enter the number: "))
 a=0
 b=1

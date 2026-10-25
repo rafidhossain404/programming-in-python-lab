@@ -1,3 +1,4 @@
+#Find the sum of all the primes below 1000.
 sum = 0
 
 for i in range(2, 1000):
